@@ -1,3 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application</string>
+
+    <string name="app_name">Calculator</string>
+    <string name="string1">Input your expression</string>
+    <string name="string2">we accept 0-9, ., *, /, (), +, -</string>
+    <string name="placeholder">input here</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">calculate</string>
+
 </resources>
